@@ -1,2 +1,2 @@
-Hi this book is all about github.
+Hi this book is all about GitHub.
 The End
